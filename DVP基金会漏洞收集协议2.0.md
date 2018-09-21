@@ -151,7 +151,7 @@
 | 二等 | 10 eth | 5 eth | 3 eth | 0.7 eth |
 | 三等 | 5 eth | 3 eth | 1 eth | 0.5 eth |
 | 四等 | 3 eth | 1 eth | 0.5 eth | 0.3 eth |
-| 五等 | 1.4 eth | 0.9 eth | 0.5 eth | 0.2 eth |
+| 五等 | 1 eth | 0.6 eth | 0.3 eth | 0.1 eth |
 
 评判依据：https://coinmarketcap.com/coins/
 
